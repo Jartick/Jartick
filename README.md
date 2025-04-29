@@ -45,6 +45,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=6296CC)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=6296CC)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=6296CC)
+![Prettier](https://img.shields.io/badge/Prettier-090909?style=for-the-badge&logo=Prettier&logoColor=6296CC)
 
 ### <h3 align="left">🔥 Моя статистика :</h3>
 
