@@ -1,0 +1,6 @@
+print("перо")
+print("пер")
+print("пе")
+print("печ")
+print("печа")
+print("печать")
