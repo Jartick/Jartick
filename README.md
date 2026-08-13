@@ -44,7 +44,6 @@
 ![Prettier](https://shields.io)
 
 
-
 ### <h3 align="left">🔥 Моя статистика :</h3>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Jartick&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Jartick/github-readme-stats#gh-dark-mode-only)
