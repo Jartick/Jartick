@@ -43,6 +43,16 @@
 <img src="https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=ff0000" height="25" alt="SQL logo"  />
 <img src="https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=Prettier&logoColor=ff0000" height="25" alt="Prettier logo"  />
 <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=ff0000" height="25" alt="Python logo"  />
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left">
+  <img src="https://shields.io" height="25" alt="Flutter logo" />
+  <img src="https://shields.io" height="25" alt="Java logo" />
+  <img src="https://shields.io" height="25" alt="Minecraft logo" />
+  <img src="https://shields.io" height="25" alt="Git logo" />
+  <img src="https://shields.io" height="25" alt="SQL logo" />
+  <img src="https://shields.io" height="25" alt="Prettier logo" />
+  <img src="https://shields.io" height="25" alt="Python logo" />
+</p>
 
 
 ### <h3 align="left">🔥 Моя статистика :</h3>
