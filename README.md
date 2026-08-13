@@ -36,6 +36,7 @@
 ###
 
 <h3 align="left">🛠 Languages and Tools:</h3>
+<img src="https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=ff0000" height="25" alt="Flutter logo"  />
 ![Flutter](https://shields.io)
 ![Java](https://shields.io)
 ![Minecraft](https://shields.io)
