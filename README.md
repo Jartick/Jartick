@@ -38,8 +38,8 @@
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Java](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![Minecraft](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![Minecraft](https://img.shields.io/badge/-Minecraft-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=6296CC)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=6296CC)
 ![Prettier](https://img.shields.io/badge/Prettier-090909?style=for-the-badge&logo=Prettier&logoColor=6296CC)
