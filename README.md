@@ -36,15 +36,13 @@
 ###
 
 <h3 align="left">🛠 Languages and Tools:</h3>
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left">
-  <img src="https://shields.io" alt="Flutter" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Minecraft" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="Prettier" />
-</p>
+![Flutter](https://shields.io)
+![Java](https://shields.io)
+![Minecraft](https://shields.io)
+![Git](https://shields.io)
+![SQL](https://shields.io)
+![Prettier](https://shields.io)
+
 
 
 ### <h3 align="left">🔥 Моя статистика :</h3>
