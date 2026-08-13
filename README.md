@@ -37,12 +37,12 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <img src="https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=ff0000" height="25" alt="Flutter logo"  />
-![Flutter](https://shields.io)
-![Java](https://shields.io)
-![Minecraft](https://shields.io)
-![Git](https://shields.io)
-![SQL](https://shields.io)
-![Prettier](https://shields.io)
+<img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=ff0000" height="25" alt="Java logo"  />
+<img src="https://img.shields.io/badge/-Minecraft-090909?style=for-the-badge&logo=Minecraft&logoColor=ff0000" height="25" alt="Minecraft logo"  />
+<img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=ff0000" height="25" alt="Git logo"  />
+<img src="https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=ff0000" height="25" alt="SQL logo"  />
+<img src="https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=Prettier&logoColor=ff0000" height="25" alt="Prettier logo"  />
+<img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=ff0000" height="25" alt="Python logo"  />
 
 
 ### <h3 align="left">🔥 Моя статистика :</h3>
