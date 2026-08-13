@@ -40,7 +40,8 @@
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=F88C00)
 ![Minecraft](https://img.shields.io/badge/-Minecraft-090909?style=for-the-badge&logo=Minecraft&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=6296CC)
-![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=6296CC)![Prettier](https://img.shields.io/badge/Prettier-090909?style=for-the-badge&logo=Prettier&logoColor=6296CC)
+![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=6296CC)
+![Prettier](https://img.shields.io/badge/Prettier-090909?style=for-the-badge&logo=Prettier&logoColor=6296CC)
 
 
 ### <h3 align="left">🔥 Моя статистика :</h3>
