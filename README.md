@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi,👋 I'm a beginner YouTuber and a backend python programmer.</h1>
+<h1 align="center">Hi,👋 I'm a beginner SRE engineer</h1>
 
 ###
 
